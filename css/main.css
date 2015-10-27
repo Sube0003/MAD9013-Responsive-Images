@@ -6,11 +6,12 @@
 
 body{
  	
-	background-color:ghostwhite;
+	background-color:green;
 	
 }
 .wrapper{
-	margin:0 auto;
+	
+	width: 100%;
 	
 }
 
@@ -24,7 +25,7 @@ picture img{
 
 li{
 	float: left;
-	margin-left: 4px;
+	margin-left: 5px;
 }
 
 
